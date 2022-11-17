@@ -26,7 +26,7 @@ func FooFunc() {
 	}
 	end := time.Now()
 	dur := end.Sub(start) // 10s
-    _, _ = end,dur
+        _, _ = end,dur
 }
 ```
 
@@ -53,6 +53,6 @@ func FooFunc() {
 	}
 	end := time.Now()
 	dur := end.Sub(start) // 10s
-    _, _ = end,dur
+        _, _ = end,dur
 }
 ```
